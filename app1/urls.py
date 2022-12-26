@@ -4,4 +4,5 @@ app_name='something'
 
 urlpatterns=[
     path('first/',first,name='first'),
+    path('sam/',sam,name='sam'),
 ]
